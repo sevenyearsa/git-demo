@@ -1,5 +1,1 @@
-hello git new a repository
-
-after tests
-
-second commit
+3nd
